@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadcastReceiverKotlin2</string>
+    <string name="send_broadcast">Send Broadcast</string>
+    <string name="send_action">Send Action</string>
+    <string name="send_local_action_view_broadcast">Send Local Action View Broadcast</string>
+    <string name="display">Display</string>
+</resources>
